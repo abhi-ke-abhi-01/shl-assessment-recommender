@@ -1,0 +1,2246 @@
+[
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "test_type": "A,E,B,C,D,P",
+    "keys": [
+      "Ability & Aptitude",
+      "Assessment Exercises",
+      "Biodata & Situational Judgment",
+      "Competencies",
+      "Development & 360",
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Director",
+      "Entry-Level",
+      "Executive",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Front Line Manager",
+      "Supervisor"
+    ],
+    "languages": [],
+    "description": "Report for GSA completers. Provides actionable development tips based on Great 8 Domains coverage."
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "30 minutes",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of .NET environment including Application Development, Data Modeling, Deployment, Diagnostics, Performance and Security."
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "17 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of MVC architecture, validation, security, routing."
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "5 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of MVVM pattern, scenarios, data validation, ViewModel communication."
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "11 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of .NET fundamentals, WCF architecture, programming model, SOA."
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of WPF, XAML controls, events, layouts."
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "5 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of XAML triggers, data binding, custom controls and layouts."
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of processing payables and vendor invoices, and posting journal entries."
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulated data entry test measuring ability to process payables and vendor invoices."
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of processing receivables and invoices."
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulated data entry test measuring ability to process receivables and invoices."
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of ADO.NET architecture, components and data provider objects."
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "17 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of AEM components, templates, workflows, OSGi services."
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "20 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Adobe Photoshop CC including layers, color, selection and web."
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of flight mechanics, space dynamics, aerodynamics, structures and propulsion."
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures conceptual knowledge of aerodynamics, aircraft systems, flight dynamics, space dynamics and avionics."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "7 minutes",
+    "job_levels": [
+      "Graduate"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of agile methodology, scrum, feature driven software development."
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of tools, techniques and processes involved in Agile testing methodology."
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "16 minutes",
+    "job_levels": [
+      "General Population"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures skills that help candidates successfully leverage AI in their work."
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "6 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability."
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "7 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Android UI components, services, animation, security and testing."
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "11 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Angular 6 components, data binding, dependency injection, routing."
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of AngularJS architecture, forms, directives, filters, controllers, routing."
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "7 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Hadoop concepts, commands, HDFS and MapReduce."
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures conceptual knowledge of Pig, Hive and HBase."
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "5 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of HBase concepts, ACID properties, MapReduce integration."
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "5 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Hive architecture, datatypes, functions, partitioning."
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "6 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Apache Kafka architecture, clusters, performance tuning."
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "6 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Pig architecture, operators, functions and PigLatin commands."
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Apache Spark principles, RDD operations, lineage graphs."
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of .NET framework, C# fundamentals, OOP, data access and security."
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "30 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of ASP.NET programming environment, web applications, data access, security."
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "test_type": "E",
+    "keys": [
+      "Assessment Exercises"
+    ],
+    "duration": "Variable",
+    "job_levels": [
+      "Director",
+      "Entry-Level",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "languages": [
+      "English International",
+      "English (USA)"
+    ],
+    "description": "Comprehensive range of Assessment and Development Centre exercises in digital format for remote assessment including group exercises, role plays, analysis presentations."
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "20 minutes",
+    "job_levels": [
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulated compiler test measuring debugging skills in C, C++ and Java."
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "30 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulated query writing test measuring ability to write SQL queries for DDL, DML and DCL tasks."
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "45 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "AI-powered coding simulation in familiar IDE environment, 40+ programming languages, real-world problems."
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "60 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulated test measuring ability to analyze and modify data using machine learning algorithms."
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "60 minutes",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Advanced simulated test measuring ability to analyze and modify data using ML algorithms."
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "30 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Manager"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulation measuring front-end development capabilities using HTML, CSS, and JavaScript."
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "60 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "AI-powered coding simulation in IDE environment, 40+ programming languages."
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "60 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Coding simulation measuring ability to conduct automation testing using Selenium scripts."
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Automation Anywhere dashboard, control room, bots and commands."
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of auto engine, fuel systems, vehicle technology, maintenance."
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "6 minutes",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Graduate",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures basic understanding of Biology."
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "test_type": "S,K",
+    "keys": [
+      "Simulations",
+      "Knowledge & Skills"
+    ],
+    "duration": "30 minutes",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures general computer terminology, processes and applications in a simulated Windows 10 environment."
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of statistical methods, exploratory analysis, probability, distributions and testing."
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of amino acids, proteins, enzymes, carbohydrates and bioenergetics."
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "5 minutes",
+    "job_levels": [
+      "Graduate",
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of biophysical techniques, bio-processing and separation techniques."
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "24 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Front Line Manager",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Adaptive test measuring workplace communication skills including verbal, written and electronic communication."
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "35 minutes",
+    "job_levels": [],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of communicating in the workplace including verbal, written and electronic communication. Non-adaptive version."
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of C programming basics, functions, arrays, composed data types."
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of C# programming structure, functions, collections, OOP, event handling."
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of C++ language and standard library."
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "12 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of ceramic materials, production of ceramics and thermodynamics."
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of transport phenomena, chemical process engineering and stoichiometry."
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of structural engineering, transportation, surveying, geotechnical and water resources."
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of cloud computing concepts, service models, virtualization and private clouds."
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of COBOL programming fundamentals, structure and application processing."
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "12 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of operating systems, computer architecture, DBMS and computer networks."
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "15 minutes",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulation measuring ability to handle customer concerns over a call by referring to standard process documents."
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "11 minutes",
+    "job_levels": [],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulation measuring ability to handle customer concerns over multiple chats, scoring resolution, time and vocabulary."
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Java constructs, OOP, generics, collections, threads, concurrency and advanced Java."
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of basic Java constructs, OOP, file handling, exception handling and threads."
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of CSS3 and its application in providing style to web documents."
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of cyber risk management, system security, network security and security management."
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "test_type": "S",
+    "keys": [
+      "Simulations"
+    ],
+    "duration": "4 minutes",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Simulated data entry test measuring ability to accurately transcribe data and verify pre-filled data."
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "5 minutes",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional",
+      "Front Line Manager",
+      "Entry-Level"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures speed and accuracy at typing text and numbers into forms."
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "14 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures conceptual knowledge of machine learning to analyze data, extract information and make decisions."
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "languages": [
+      "Portuguese (Brazil)",
+      "Chinese Traditional",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "French",
+      "German",
+      "English International",
+      "Latin American Spanish",
+      "English (USA)"
+    ],
+    "description": "Pre-screening tool identifying employees with good dependability and reliability, less likely to engage in counter-productive work behaviors. Used for safety-critical and entry-level roles."
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Docker containers, data management, performance and swarm."
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures conceptual knowledge of microeconomics, macroeconomics and international trade."
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "14 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of electrical engineering fundamentals, instrumentation, control systems and electronics."
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures vocabulary, grammar and reading comprehension skills."
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager",
+      "Mid-Professional"
+    ],
+    "languages": [],
+    "description": "Assess and benchmark leaders against enterprise leadership model for driving business results in complex environments."
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager",
+      "Mid-Professional"
+    ],
+    "languages": [],
+    "description": "Updated enterprise leadership report benchmarking leaders for complex work environments."
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "test_type": "P,C",
+    "keys": [
+      "Personality & Behavior",
+      "Competencies"
+    ],
+    "duration": "19 minutes",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "languages": [
+      "Latin American Spanish",
+      "German",
+      "French",
+      "Chinese Simplified",
+      "English International",
+      "English (USA)"
+    ],
+    "description": "Personality and competency measure for entry-level customer service positions in retail and contact centre."
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "test_type": "C,P",
+    "keys": [
+      "Competencies",
+      "Personality & Behavior"
+    ],
+    "duration": "20 minutes",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "languages": [
+      "English (USA)",
+      "English International",
+      "Latin American Spanish",
+      "French (Canada)"
+    ],
+    "description": "For entry-level sales roles requiring proactive selling and compensation based on revenue."
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "test_type": "B",
+    "keys": [
+      "Biodata & Situational Judgment"
+    ],
+    "duration": "Untimed",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager"
+    ],
+    "languages": [
+      "Italian",
+      "English (USA)",
+      "English International",
+      "Korean"
+    ],
+    "description": "Unique test of Managerial Judgement for executives. Hypothetical scenarios measuring ability to decide effective ways of handling real-life situations."
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "7 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of routing, error handling, security, middleware in ExpressJS."
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures ability to post journal entries, classify financial items, analyze statements and calculate ratios."
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of investment products, banking products, taxation and macroeconomics principles."
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "13 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of how to use GIT for version control."
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "test_type": "C,K",
+    "keys": [
+      "Competencies",
+      "Knowledge & Skills"
+    ],
+    "duration": "16 minutes",
+    "job_levels": [],
+    "languages": [
+      "Indonesian",
+      "Italian",
+      "Swedish",
+      "Thai",
+      "Portuguese (Brazil)",
+      "French (Canada)",
+      "Chinese Simplified",
+      "French",
+      "German",
+      "English International",
+      "Japanese",
+      "Korean",
+      "Latin American Spanish",
+      "Norwegian",
+      "Spanish",
+      "Arabic",
+      "English (USA)",
+      "Dutch",
+      "Portuguese",
+      "Turkish"
+    ],
+    "description": "Measures 96 discrete skills/behaviors aligned to SHL's UCF. Assesses self-reported behaviors across the Great 8 Domains. Used for skills audits and talent development."
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "test_type": "B",
+    "keys": [
+      "Biodata & Situational Judgment"
+    ],
+    "duration": "Untimed",
+    "job_levels": [
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Graduate"
+    ],
+    "languages": [
+      "English International"
+    ],
+    "description": "Unique Managerial Judgement test for graduates. Hypothetical scenarios assessing decision-making for those with limited work experience."
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "15 minutes",
+    "job_levels": [
+      "Front Line Manager",
+      "Manager"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of HIPAA security provisions for healthcare professionals. Covers computer mechanisms, medical records, security basics and implementation."
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "test_type": "C,P",
+    "keys": [
+      "Competencies",
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [],
+    "languages": [],
+    "description": "Identifies individuals with strongest potential for senior roles using OPQ, MQ and Verify assessments."
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "test_type": "C,P",
+    "keys": [
+      "Competencies",
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [],
+    "languages": [],
+    "description": "Updated high potential report evaluating aspiration, ability and engagement for future leader identification."
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "12 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of HTML for user interface and CSS for styling."
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "11 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of HTML5 and its application in creating user interfaces."
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of HR management concepts including planning, training, performance appraisal and compensation."
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "8 minutes",
+    "job_levels": [
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of capacity management, change management and problem management."
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "18 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC."
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "17 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Java frameworks including Struts, Hibernate and Spring."
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of JavaScript language and its application in front-end development."
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "6 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Jenkins configuration, deployment, plugins, nodes, build jobs and testing."
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of jQuery events, effects, animation, UI and AJAX."
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "6 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Kubernetes architecture, cluster and services."
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "10 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Linux operating system for system administration and network administration."
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "25 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Linux programming including C, C++, debugging, makefiles, revision control and X programming."
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "test_type": "B",
+    "keys": [
+      "Biodata & Situational Judgment"
+    ],
+    "duration": "Untimed",
+    "job_levels": [
+      "Front Line Manager",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "Italian",
+      "English International",
+      "Korean",
+      "Arabic"
+    ],
+    "description": "Managerial Judgement test for managers. Hypothetical scenarios measuring ability to handle real-life management situations."
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "25 minutes",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Graduate",
+      "Front Line Manager",
+      "Supervisor"
+    ],
+    "languages": [
+      "English International",
+      "French (Canada)",
+      "Portuguese",
+      "Chinese Simplified",
+      "Dutch",
+      "Romanian",
+      "Latin American Spanish",
+      "Danish",
+      "German",
+      "Italian",
+      "Norwegian",
+      "Swedish",
+      "Finnish",
+      "Polish",
+      "Turkish",
+      "Russian"
+    ],
+    "description": "Measures 32 workplace behaviour dimensions including strategic thinking, influencing style, leadership, and interpersonal style. Most widely used personality questionnaire for selection and development across all job levels."
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [],
+    "description": "Report derived from OPQ32r providing competency-based feedback across all workplace roles using UCF."
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager"
+    ],
+    "languages": [
+      "Dutch",
+      "English International",
+      "English (USA)",
+      "Romanian",
+      "German",
+      "French",
+      "Italian"
+    ],
+    "description": "Leadership-focused report derived from OPQ32r. Benchmarks candidates against SHL leadership model."
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "test_type": "A",
+    "keys": [
+      "Ability & Aptitude"
+    ],
+    "duration": "36 minutes",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Manager",
+      "Director",
+      "Executive"
+    ],
+    "languages": [
+      "English (USA)",
+      "Chinese Traditional",
+      "Korean",
+      "Serbian",
+      "German",
+      "French",
+      "Dutch",
+      "Spanish",
+      "Polish",
+      "Romanian"
+    ],
+    "description": "Adaptive general ability test covering inductive, numerical, and deductive reasoning. Single adaptive test predicting learning agility and problem-solving across professional and managerial roles."
+  },
+  {
+    "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_type": "A,S",
+    "keys": [
+      "Ability & Aptitude",
+      "Simulations"
+    ],
+    "duration": "20 minutes",
+    "job_levels": [
+      "Graduate",
+      "Entry-Level",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "French",
+      "German",
+      "Italian",
+      "Dutch",
+      "English International",
+      "Spanish",
+      "Portuguese"
+    ],
+    "description": "Interactive numerical reasoning test measuring ability to interpret and work with numerical data in workplace contexts."
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional",
+      "Manager"
+    ],
+    "languages": [
+      "Portuguese (Brazil)",
+      "Spanish",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "English International",
+      "English (USA)"
+    ],
+    "description": "Sales-specific report from OPQ32r summarizing personality results in terms of sales behaviours. Can incorporate Motivation Questionnaire (MQ) data for motivators and drives."
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "languages": [],
+    "description": "Measures how individual contributors show up in a digital-first selling model. Used for sales transformation initiatives."
+  },
+  {
+    "name": "SVAR Spoken English (US) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Spoken English assessment calibrated for US accent. Used for contact centre and customer-facing role screening."
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "test_type": "B,S",
+    "keys": [
+      "Biodata & Situational Judgment",
+      "Simulations"
+    ],
+    "duration": "20 minutes",
+    "job_levels": [],
+    "languages": [
+      "French (Canada)",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Spanish",
+      "English (USA)",
+      "English International"
+    ],
+    "description": "Older bundled solution combining personality, behaviour and simulation for customer service phone roles. Used for finalist-stage depth assessment."
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "test_type": "P",
+    "keys": [
+      "Personality & Behavior"
+    ],
+    "duration": "16 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Supervisor"
+    ],
+    "languages": [
+      "English (USA)",
+      "German",
+      "Latin American Spanish",
+      "French"
+    ],
+    "description": "Sector-specific bundled safety and dependability solution with norms calibrated to manufacturing and industrial workforces. Used when industrial norms are required."
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Knowledge test measuring understanding of workplace health and safety regulations and practices."
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "3 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Quick knowledge test measuring understanding of medical terminology for healthcare admin staff."
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "test_type": "K,S",
+    "keys": [
+      "Knowledge & Skills",
+      "Simulations"
+    ],
+    "duration": "25 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Essentials-level knowledge and simulation test for Microsoft Word 365."
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "6 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)",
+      "Spanish",
+      "French",
+      "Portuguese (Brazil)"
+    ],
+    "description": "Quick knowledge test for Microsoft Excel fundamentals."
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "4 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "Spanish",
+      "French",
+      "Portuguese (Brazil)",
+      "English (USA)"
+    ],
+    "description": "Quick knowledge test for Microsoft Word fundamentals."
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_type": "K,S",
+    "keys": [
+      "Knowledge & Skills",
+      "Simulations"
+    ],
+    "duration": "35 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Full knowledge and simulation test for Microsoft Excel 365."
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "test_type": "S,K",
+    "keys": [
+      "Simulations",
+      "Knowledge & Skills"
+    ],
+    "duration": "35 minutes",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Full knowledge and simulation test for Microsoft Word 365."
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "Variable",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional",
+      "Manager"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Adaptive live-coding interview where the panel can frame language-specific tasks. Used for senior technical candidates when no dedicated language test exists."
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "7 minutes",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of networking concepts and implementation for infrastructure roles."
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of Spring framework including Spring Boot, dependency injection and REST API design."
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "12 minutes",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of RESTful web service design and implementation."
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "test_type": "K",
+    "keys": [
+      "Knowledge & Skills"
+    ],
+    "duration": "9 minutes",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional",
+      "Entry-Level",
+      "Graduate"
+    ],
+    "languages": [
+      "English (USA)"
+    ],
+    "description": "Measures knowledge of SQL including queries, joins, transactions and database design."
+  }
+]
